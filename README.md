@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA, Python and Android Development<br>👯 I’m looking to collaborate on Python and Android<br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning new skills<br>💬 Ask me about machine learning, native android dev<br>⚡ Fun fact: I am always curious and eager to learn new things <br>
+🔭 I’m currently working on DSA, Python and Android Development<br>👯 I’m looking to collaborate on Python and Android<br>🤝 I’m looking for collaboration for hackathons<br>🌱 I’m currently learning new skills<br>💬 Ask me about machine learning, native android dev<br>⚡ Fun fact: I am always curious and eager to learn new things <br>
 
 
 ## 🌐 Socials:

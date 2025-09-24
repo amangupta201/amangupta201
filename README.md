@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=AI+Engineer+%7C+Full-Stack+Developer;Turning+Coffee+into+Code+Since+2021;Currently+Crafting+Magic+with+RAG+%26+LLMs;Building+Cool+Stuff+That+Actually+Works+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=AI+Engineer+%7C+Full-Stack+Developer;Turning+Coffee+into+Code+Since+2021;Currently+Crafting+Magic+with+RAG+%26+LLMs;Building+Cool+Stuff+That+Actually+Works)
 
 </div>
 
@@ -126,8 +126,20 @@ motto: "Code it like you mean it"
 ### 🏆 **Trophy Case**
 <img src="https://github-profile-trophy.vercel.app/?username=amangupta201&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
-### 💭 **Random Dev Wisdom**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### 🎮 **Current Level Stats**
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════╗
+║  🏆 Achievement: Published Researcher ║
+║  ⚡ Skill Points: 2500+ hours coded   ║
+║  🎯 Current Quest: Building AGI       ║
+║  ☕ Coffee Level: Dangerously High    ║
+║  🚀 Deployment Streak: 47 days       ║
+╚══════════════════════════════════════╝
+```
+
+</div>
 
 </div>
 
@@ -155,7 +167,7 @@ motto: "Code it like you mean it"
 
 <div align="center">
 
-### 🎯 **Random Dev Quote of the Day**
+### 💭 **Random Dev Wisdom**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---

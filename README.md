@@ -167,8 +167,18 @@ motto: "Code it like you mean it"
 
 <div align="center">
 
-### 💭 **Random Dev Wisdom**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### 🎲 **Fun Fact Generator**
+<div style="background: linear-gradient(45deg, #FF6B35, #00D9FF); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+```
+🎯 Did you know?
+I once debugged a neural network at 3 AM with nothing but 
+print statements and pure determination (and lots of coffee) ☕
+
+Current mood: Ready to turn your wildest AI ideas into reality 🚀
+```
+
+</div>
 
 ---
 

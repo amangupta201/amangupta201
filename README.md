@@ -1,25 +1,173 @@
-# 💫 About Me:
-🔭 I’m currently working on DSA, Python and Android Development<br>👯 I’m looking to collaborate on Python and Android<br>🤝 I’m looking for collaboration for hackathons<br>🌱 I’m currently learning new skills<br>💬 Ask me about machine learning, native android dev<br>⚡ Fun fact: I am always curious and eager to learn new things <br>
+# Hey there! I'm Aman 👋 
+### *Building the future, one algorithm at a time* ✨
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Full-Stack+Developer;Turning+Coffee+into+Code+Since+2021;Currently+Crafting+Magic+with+RAG+%26+LLMs)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-gupta-cse/) 
-
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amangupta201&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amangupta201&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta201&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amangupta201&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amangupta201&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Current Mission
+```python
+class AmanGupta:
+    def __init__(self):
+        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.location = "Lucknow, India 🇮🇳"
+        self.current_focus = ["RAG Systems", "LLM Fine-tuning", "AWS Architecture"]
+        self.vibe = "Building cool stuff that actually works 🚀"
+        
+    def daily_routine(self):
+        return [
+            "☕ Coffee++",
+            "💻 Code something awesome", 
+            "🤖 Train some neural networks",
+            "📖 Learn something new",
+            "🎯 Ship features that matter"
+        ]
+```
+
+---
+
+## 🔥 What I'm Cooking Lately
+
+<details>
+<summary><b>🤖 AI/ML Arsenal</b></summary>
+
+### 🎨 **Agentic SQL AI System** 
+> *Making databases talk in plain English*
+- Built an AI that writes & executes SQL queries from natural language
+- Added safety nets with rollback mechanisms (because nobody wants to DROP TABLE accidentally 😅)
+- Deployed on AWS Lambda with cost optimization
+
+### 🧠 **Dual RAG PDF Chatbots**
+> *Two flavors of AI document intelligence*
+- **Version 1:** Custom Flask pipeline with vector embeddings
+- **Version 2:** FastAPI + LangChain powerhouse
+- Integrated ChromaDB & Qdrant for lightning-fast retrieval
+- TruLens evaluation for bulletproof reliability
+
+### 📊 **Stock Market Crystal Ball**
+> *Predicting market vibes through news sentiment*
+- Hybrid CNN-LSTM model for Indian stock market prediction
+- Published research paper in Springer conference 📄
+
+</details>
+
+<details>
+<summary><b>🏆 Achievement Unlocked</b></summary>
+
+```
+🥇 IEEE SPS Seasonal School Champion (AI for Elderly Assistance)
+🥉 IEEE National Symposium Runner-up (IoT Soil Analysis)
+📚 2 Research Papers Published (IEEE & Springer)
+🎯 Top 7 Nationwide - KPMG Cybersecurity CTF
+🎤 Conference Speaker at multiple IEEE events
+```
+
+</details>
+
+---
+
+## ⚡ Tech Stack That Hits Different
+
+<div align="center">
+
+### 🚀 **The Daily Drivers**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🎨 **Frontend Magic**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ **Data Powerhouses**
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Wrapped (But Make It Aesthetic)
+
+<div align="center">
+  
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=amangupta201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+
+<img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta201&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=FFFFFF" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta201&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35" width="100%"/>
+</div>
+
+---
+
+## 🎪 Fun Zone
+
+<div align="center">
+
+### 🎯 **Quick Facts About Me**
+```yaml
+coffee_addiction: "Severe ☕"
+favorite_debugging_method: "Rubber duck conversations 🦆"
+superpower: "Turning complex problems into simple solutions"
+weakness: "Perfectionism (and good pizza 🍕)"
+motto: "Code it like you mean it"
+```
+
+### 🏆 **Trophy Case**
+<img src="https://github-profile-trophy.vercel.app/?username=amangupta201&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+### 💭 **Random Dev Wisdom**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Epic Together!
+
+<div align="center">
+
+### 📬 **Slide Into My DMs**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.thedeveloper08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-cse)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+### 💡 **I'm Down For:**
+- 🚀 Building AI products that don't suck
+- 🤖 Collaborating on ML research projects  
+- 💼 Internship/full-time opportunities
+- 🏆 Hackathons (I bring snacks AND skills)
+- ☕ Coffee chats about tech, life, and everything in between
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 **Currently Vibing To Code**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing?username=USERNAME&background_color=0d1117&border_color=ffffff)](https://spotify-github-profile.vercel.app/api/spotify-playing?username=USERNAME&redirect=true)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=amangupta201&style=for-the-badge&color=00D9FF" />
+
+**"Building the future, debugging the present, learning from the past" 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=fff&animation=twinkling" />
+</div>

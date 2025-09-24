@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Full-Stack+Developer;Turning+Coffee+into+Code+Since+2021;Currently+Crafting+Magic+with+RAG+%26+LLMs)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=AI+Engineer+%7C+Full-Stack+Developer;Turning+Coffee+into+Code+Since+2021;Currently+Crafting+Magic+with+RAG+%26+LLMs;Building+Cool+Stuff+That+Actually+Works+🚀)
 
 </div>
 
@@ -140,7 +140,7 @@ motto: "Code it like you mean it"
 ### 📬 **Slide Into My DMs**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.thedeveloper08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-cse)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Personal_Blog-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://amangupta.net/)
 
 ### 💡 **I'm Down For:**
 - 🚀 Building AI products that don't suck
@@ -155,8 +155,8 @@ motto: "Code it like you mean it"
 
 <div align="center">
 
-### 🎵 **Currently Vibing To Code**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing?username=USERNAME&background_color=0d1117&border_color=ffffff)](https://spotify-github-profile.vercel.app/api/spotify-playing?username=USERNAME&redirect=true)
+### 🎯 **Random Dev Quote of the Day**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
